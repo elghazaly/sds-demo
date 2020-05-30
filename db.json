@@ -82,5 +82,25 @@
 			"title": "اسم الشريك",
 			"logo": "https://place-hold.it/600?text=Logo&fontsize=23"
 		}
+	],
+	"news": [
+		{
+			"id": 1,
+			"title": "ورشة عمل لعرض مخرجات جلسات الإسكندرية الحوارية",
+			"cover": "https://place-hold.it/600?text=Cover&fontsize=23",
+			"published_date": "12/02/2020",
+			"gallery": ["https://place-hold.it/600?text=1&fontsize=23", "https://place-hold.it/600?text=2&fontsize=23", "https://place-hold.it/600?text=3&fontsize=23", "https://place-hold.it/600?text=4&fontsize=23"],
+			"summary": "",
+			"content": ""
+		},
+		{
+			"id": 2,
+			"title": "ورشة عمل لعرض مخرجات جلسات الإسكندرية الحوارية",
+			"cover": "https://place-hold.it/600?text=Cover&fontsize=23",
+			"published_date": "14/02/2020",
+			"gallery": ["https://place-hold.it/600?text=1&fontsize=23", "https://place-hold.it/600?text=2&fontsize=23", "https://place-hold.it/600?text=3&fontsize=23", "https://place-hold.it/600?text=4&fontsize=23"],
+			"summary": "",
+			"content": ""
+		}
 	]
 }
